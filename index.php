@@ -1,5 +1,5 @@
 <?php
-
+header("Refresh:1");
 // $t = time();
 // echo $t;
 
